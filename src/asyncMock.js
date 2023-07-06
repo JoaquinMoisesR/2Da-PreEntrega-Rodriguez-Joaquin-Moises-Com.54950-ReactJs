@@ -21,7 +21,7 @@ const products = [
         id:'3',
         name: 'MAIZ',
         price: 89000,
-        img: 'http://www.muchostrucos.com/wp-content/uploads/2016/08/barba_maiz.jpg',
+        img: 'https://agroverdad.com.ar/wp-content/uploads/2022/11/Maiz-central.jpg',
         stock: 10,
         category: 'ExpellerMaiz',
         description: 'Maiz, primera coseacha, precio en USD por tonelada, area pampa humeda, Cordoba, Argentina'
